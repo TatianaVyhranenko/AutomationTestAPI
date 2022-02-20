@@ -1,3 +1,5 @@
+package API;
+
 import org.apache.http.StatusLine;
 import org.testng.Assert;
 import org.testng.annotations.Test;
